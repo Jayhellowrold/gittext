@@ -14,5 +14,6 @@ public class GitText {
         System.out.println("hello Git 2");
         System.out.println("hello Git3");
         System.out.println("Hello Git4");
+        System.out.println("Hot-fix test");
     }
 }
